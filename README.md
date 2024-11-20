@@ -1,0 +1,2 @@
+# TaskManagementAppBackend
+ A backend application built with Express.js, offering RESTful APIs for task management and user authentication. Key features include:  Task Operations: Add, delete, update, and fetch tasks with ease. User Authentication: Secure login system with JWT-based authentication. Database Integration: Persistent data storage using MongoDB. Ideal for learning or integrating task management APIs into projects.
